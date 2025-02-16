@@ -1,0 +1,40 @@
+name: portfolio_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.2.5
+  google_fonts: ^6.1.0
+  cupertino_icons: ^1.0.8
+  dio: ^5.8.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1  # Updated version
+  flutter_lints: ^4.0.0  # Moved under dev_dependencies
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/playstore.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/playstore.png  # Ensure this file exists
+
+  # fonts:
+  #   - family: CustomFont
+  #     fonts:
+  #       - asset: assets/fonts/CustomFont-Regular.ttf
+  #       - asset: assets/fonts/CustomFont-Bold.ttf
+  #         weight: 700
