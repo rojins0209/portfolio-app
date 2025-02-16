@@ -1,17 +1,34 @@
-# portfolio_app
+# **Flutter Portfolio App** 🚀  
 
-A new Flutter project.
+A **modern portfolio app** built using **Flutter** to showcase projects, skills, and experience.  
 
-## Getting Started
+## 📌 **Features**  
+✅ Clean & responsive UI  
+✅ Showcase projects & skills  
+✅ Contact information section  
+✅ Smooth animations  
 
-This project is a starting point for a Flutter application.
+## 📸 **Screenshots**  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 **Tech Stack**  
+- **Flutter** (Dart)  
+- State management (Provider/Bloc)  
+- Firebase (optional, if used)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter Portfolio App
+## 🚀 **Getting Started**  
+### **Prerequisites**  
+- Install [Flutter](https://flutter.dev/docs/get-started/install)  
+- Install [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)  
+
+### **Clone this repo**  
+```sh
+git clone https://github.com/yourusername/flutter-portfolio.git
+cd flutter-portfolio
+```
+
+### **Run the app**  
+```sh
+flutter pub get
+flutter run
+```
